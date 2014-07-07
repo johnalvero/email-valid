@@ -7,7 +7,7 @@ The email validation component validates the email address by telnetting to the 
 
 #### Running the API
 > $ cd [source_folder]
-> $ nmp install #optional
+> $ nmp install
 > $ NODE_ENV=production npm start
 
 _By default it will listen at TCP port 3001_

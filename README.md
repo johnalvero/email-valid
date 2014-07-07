@@ -12,7 +12,7 @@ The email validation component validates the email address by telnetting to the 
 _By default it will listen at TCP port 3001_
 
 #### Making a sample request
-> $ curl -X POST  http://<URL>:3001/v1/email/verify --data "email=johndoe@google.com"
+> $ curl -X POST  http://\<URL\>:3001/v1/email/verify --data "email=johndoe@google.com"
 
 ####Sample Replies
 
